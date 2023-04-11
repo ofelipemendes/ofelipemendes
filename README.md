@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Felipe Mendes</h1>
 
-<!--
-**ofelipemendes/ofelipemendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <b>Software Developer</b>
+</div>
+<br>
 
-Here are some ideas to get you started:
+Hey there! I'm Felipe!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my professional profile on GitHub. I'm currently working as a _Software Developer_ at <a href="https://github.com/webradar-telecom">WebRadar</a>, where I can improve my abilities in Back-end web development, using technologies like **Java** with **Spring Boot** or **Dropwizard** frameworks,  **PostgreSQL**, **Docker**, **JUnit**, **Kafka** and **Flink**.
+
+
+
+<h1 align="center"></h1>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ofelipemendes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
